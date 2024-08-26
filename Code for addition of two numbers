@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-float a=2,b=4;
-int sum=a+b;
-cout<<"sum is ="<<sum;
+float a=8,b=4;
+int sub=a-b;
+cout<<"sub is ="<<sub;
 return 0;
 }
